@@ -6,9 +6,8 @@
 
 <h3>Languages and Tools:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRocha10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRocha10&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoRocha10&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoRocha10&show_icons=true)
 
 
 
