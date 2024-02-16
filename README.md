@@ -7,7 +7,7 @@
 <h3>Languages and Tools:</h3>
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodrigoRocha10)](https://git.io/streak-stats)
 <!--
