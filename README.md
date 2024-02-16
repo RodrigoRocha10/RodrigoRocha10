@@ -3,6 +3,8 @@
 
 <h3 align="center">A Beginner Developer From Portugal</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=RodrigoRocha10&color=brightgreen)
+
 
 <h3>Languages and Tools:</h3>
 
