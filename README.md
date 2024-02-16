@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Rodrigo Rocha👋</h1>
 
-<h3 align="center">A Passionate Developer from Portugal</h3>
+<h3 align="center">A Beginner Developer From Portugal</h3>
 
 
 <h3>Languages and Tools:</h3>
