@@ -9,7 +9,7 @@
 
 <h3>Languages and Tools:</h3>
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)   ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
 
 
