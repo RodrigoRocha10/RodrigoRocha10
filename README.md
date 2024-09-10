@@ -1,63 +1,43 @@
-
 <h1 align="center">Hi, I'm Rodrigo Rocha👋</h1>
 
 <h3 align="center">A Beginner Developer From Portugal</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RodrigoRocha10&color=brightgreen)
 
+<h3 align="center">Languages and Tools:</h3>
 
-
-<h3>Languages and Tools:</h3>
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue-dot-js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-  
-  
-
+<p align="center">
+  <a href="https://www.c-sharp.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://isocpp.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://www.php.net/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="microsoftsqlserver" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://dotnet.microsoft.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://getbootstrap.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://laravel.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://flutter.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://dart.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://nodejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://reactnative.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg" alt="reactnative" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://git-scm.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://visualstudio.microsoft.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visualstudio" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://github.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="max-width: 100%;"> </a>
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RodrigoRocha10&show_icons=true) &nbsp; &nbsp;  &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRocha10&layout=compact)
 
-
-
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodrigoRocha10)](https://git.io/streak-stats)
+
 <!--
 **RodrigoRocha10/RodrigoRocha10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3>Languages and Tools:</h3>
-
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RodrigoRocha10)](https://git.io/streak-stats)
 Here are some ideas to get you started:
