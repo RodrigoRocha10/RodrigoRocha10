@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RodrigoRocha10&color=brightgreen)
 
-<h3 align="center">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://www.c-sharp.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
