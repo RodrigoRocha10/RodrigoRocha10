@@ -2,7 +2,9 @@
 
 <h3 align="center">A Beginner Developer From Portugal</h3>
 
-<h4 align="center">https://rodrigorocha10.github.io/portfolio_rodrigo/</h4>
+<h4 align="center">
+  <a href="https://rodrigorocha10.github.io/portfolio_rodrigo/" target="_blank">https://rodrigorocha10.github.io/portfolio_rodrigo/</a>
+</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RodrigoRocha10&color=brightgreen)
 
