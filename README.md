@@ -4,8 +4,6 @@
 
 <h4 align="center">https://rodrigorocha10.github.io/portfolio_rodrigo/</h4>
 
-https://rodrigorocha10.github.io/portfolio_rodrigo/
-
 ![Profile Views](https://komarev.com/ghpvc/?username=RodrigoRocha10&color=brightgreen)
 
 <h3>Languages and Tools:</h3>
